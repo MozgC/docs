@@ -4,6 +4,7 @@ You may run into a situation where LINQ to DB does not know how to convert some 
 There are multiple ways to teach LINQ to DB how to convert custom properties and methods into SQL, but the primary ones are:
 
 <ul>
+
 <li>
 
 [LinqToDB.Sql.ExpressionAttribute](#sqlexpression) and [LinqToDB.Sql.FunctionAttribute](#sqlfunction-attribute)</li>
